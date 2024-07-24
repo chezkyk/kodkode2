@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Guests\bin\Debug\Guests.exe.config
+C:\Users\Admin\source\repos\Guests\bin\Debug\Guests.exe
+C:\Users\Admin\source\repos\Guests\bin\Debug\Guests.pdb
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.Form1.resources
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.Form2.resources
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.Properties.Resources.resources
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.exe
+C:\Users\Admin\source\repos\Guests\obj\Debug\Guests.pdb

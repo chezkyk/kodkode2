@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee id="1" name="Chezky" age="21" />
+  <Employee id="2" name="Tal" age="22" />
+  <Employee id="3" name="Dovi" age="23">
+    <Address street="Kadish Luz" number="15" city="Haifa" />
+    <MonthsWorked>
+      <Month number="1" daysWorked="20" />
+      <Month number="2" daysWorked="18" />
+      <Month number="3" daysWorked="22" />
+    </MonthsWorked>
+  </Employee>
+  <Employee id="4" name="Eli" age="27" />
+</Employees>

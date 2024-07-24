@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Pillar\obj\Debug\Pillar.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pillar\obj\Debug\Pillar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Pillar\obj\Debug\Pillar.Form1.resources
+C:\Users\Admin\source\repos\Pillar\obj\Debug\Pillar.Properties.Resources.resources
+C:\Users\Admin\source\repos\Pillar\obj\Debug\Pillar.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Pillar\obj\Debug\Pillar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pillar\bin\Debug\Pillar.exe.config
+C:\Users\Admin\source\repos\Pillar\bin\Debug\Pillar.exe
+C:\Users\Admin\source\repos\Pillar\bin\Debug\Pillar.pdb
+C:\Users\Admin\source\repos\Pillar\obj\Debug\Pillar.exe
+C:\Users\Admin\source\repos\Pillar\obj\Debug\Pillar.pdb

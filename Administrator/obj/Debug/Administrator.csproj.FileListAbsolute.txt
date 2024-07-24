@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\Admin\source\repos\Administrator\bin\Debug\Administrator.exe
+C:\Users\Admin\source\repos\Administrator\bin\Debug\Administrator.pdb
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.exe
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.pdb
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.AddCourses.resources
+C:\Users\Admin\source\repos\Administrator\obj\Debug\Administrator.Interested.resources

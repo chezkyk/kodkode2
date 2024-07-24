@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\bin\Debug\Vending machine.exe.config
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\bin\Debug\Vending machine.exe
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\bin\Debug\Vending machine.pdb
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\obj\Debug\Vending machine.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\obj\Debug\Vending_machine.Form1.resources
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\obj\Debug\Vending_machine.Properties.Resources.resources
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\obj\Debug\Vending machine.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\obj\Debug\Vending machine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\obj\Debug\Vending machine.exe
+C:\Users\Admin\source\repos\_kodkod2Riposetory\Vending machine\obj\Debug\Vending machine.pdb

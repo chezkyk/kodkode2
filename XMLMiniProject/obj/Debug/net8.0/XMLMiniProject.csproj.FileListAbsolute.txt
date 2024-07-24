@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\bin\Debug\net8.0\XMLMiniProject.exe
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\bin\Debug\net8.0\XMLMiniProject.deps.json
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\bin\Debug\net8.0\XMLMiniProject.runtimeconfig.json
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\bin\Debug\net8.0\XMLMiniProject.dll
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\bin\Debug\net8.0\XMLMiniProject.pdb
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\XMLMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\XMLMiniProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\XMLMiniProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\XMLMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\XMLMiniProject.dll
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\refint\XMLMiniProject.dll
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\XMLMiniProject.pdb
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\XMLMiniProject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\XMLMiniProject\obj\Debug\net8.0\ref\XMLMiniProject.dll

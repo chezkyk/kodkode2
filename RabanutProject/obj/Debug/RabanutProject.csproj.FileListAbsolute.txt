@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\bin\Debug\RabanutProject.exe.config
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\bin\Debug\RabanutProject.exe
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\bin\Debug\RabanutProject.pdb
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\obj\Debug\RabanutProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\obj\Debug\RabanutProject.Form1.resources
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\obj\Debug\RabanutProject.Properties.Resources.resources
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\obj\Debug\RabanutProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\obj\Debug\RabanutProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\obj\Debug\RabanutProject.exe
+C:\Users\Admin\source\repos\_kodkod2Riposetory\RabanutProject\obj\Debug\RabanutProject.pdb

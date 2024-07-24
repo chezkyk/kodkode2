@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\GuestsForShabbat\bin\Debug\GuestsForShabbat.exe.config
+C:\Users\Admin\source\repos\GuestsForShabbat\bin\Debug\GuestsForShabbat.exe
+C:\Users\Admin\source\repos\GuestsForShabbat\bin\Debug\GuestsForShabbat.pdb
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\GuestsForShabbat.Form1.resources
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\GuestsForShabbat.Form2.resources
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\GuestsForShabbat.Properties.Resources.resources
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\GuestsForShabbat.exe
+C:\Users\Admin\source\repos\GuestsForShabbat\obj\Debug\GuestsForShabbat.pdb

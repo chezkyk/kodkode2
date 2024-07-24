@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Employees\bin\Debug\Employees.exe.config
+C:\Users\Admin\source\repos\Employees\bin\Debug\Employees.exe
+C:\Users\Admin\source\repos\Employees\bin\Debug\Employees.pdb
+C:\Users\Admin\source\repos\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Employees\obj\Debug\Employees.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Employees\obj\Debug\Employees.Form1.resources
+C:\Users\Admin\source\repos\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\Admin\source\repos\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Employees\obj\Debug\Employees.exe
+C:\Users\Admin\source\repos\Employees\obj\Debug\Employees.pdb

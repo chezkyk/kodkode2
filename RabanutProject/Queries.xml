@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>result</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>result</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>יום אחד לירח   שנת חמשת אלפים ושמנים וארבע לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>יום אחד לירח   שנת חמשת אלפים ושמנים וארבע לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>שני</Day>
+    <DayMonth>2</DayMonth>
+    <Month>מרחשוון</Month>
+    <Year>תשפ''ה</Year>
+    <Result>שני ימים לירח   שנת חמשת אלפים ושמנים וחמש לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>יום אחד לירח  תשרי שנת חמשת אלפים ושמנים וארבע לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>מרחשוון</Month>
+    <Year>תשפ''ה</Year>
+    <Result>יום אחד לירח  מרחשוון שנת חמשת אלפים ושמנים וחמש לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>יום אחד לירח  תשרי שנת חמשת אלפים ושמנים וארבע לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>יום אחד לירח  תשרי שנת חמשת אלפים ושמנים וארבע לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>באחד בשבת יום אחד לירח תשרי שנת חמשת אלפים ושמנים וארבע לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>באחד בשבת יום אחד לירח תשרי שנת חמשת אלפים ושמנים וארבע לבריאת העולם </Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>30</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ''ד</Year>
+    <Result>באחד בשבת יום שלשים לחודש תשרי שהוא ראש חודש מר חשוון תשרי שנת חמשת אלפים ושמנים וארבע לבריאת העולם </Result>
+  </Query>
+</Queries>

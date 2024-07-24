@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ClassesEx\bin\Debug\ClassesEx.exe.config
+C:\Users\Admin\source\repos\ClassesEx\bin\Debug\ClassesEx.exe
+C:\Users\Admin\source\repos\ClassesEx\bin\Debug\ClassesEx.pdb
+C:\Users\Admin\source\repos\ClassesEx\obj\Debug\Classes.CarColorEx.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ClassesEx\obj\Debug\Classes.CarColorEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ClassesEx\obj\Debug\ClassesEx.Properties.Resources.resources
+C:\Users\Admin\source\repos\ClassesEx\obj\Debug\Classes.CarColorEx.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ClassesEx\obj\Debug\Classes.CarColorEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ClassesEx\obj\Debug\ClassesEx.exe
+C:\Users\Admin\source\repos\ClassesEx\obj\Debug\ClassesEx.pdb

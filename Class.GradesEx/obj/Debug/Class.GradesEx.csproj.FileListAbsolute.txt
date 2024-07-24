@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Class.GradesEx\bin\Debug\Class.GradesEx.exe.config
+C:\Users\Admin\source\repos\Class.GradesEx\bin\Debug\Class.GradesEx.exe
+C:\Users\Admin\source\repos\Class.GradesEx\bin\Debug\Class.GradesEx.pdb
+C:\Users\Admin\source\repos\Class.GradesEx\obj\Debug\Class.GradesEx.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Class.GradesEx\obj\Debug\Class.GradesEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Class.GradesEx\obj\Debug\Class.GradesEx.Properties.Resources.resources
+C:\Users\Admin\source\repos\Class.GradesEx\obj\Debug\Class.GradesEx.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Class.GradesEx\obj\Debug\Class.GradesEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Class.GradesEx\obj\Debug\Class.GradesEx.exe
+C:\Users\Admin\source\repos\Class.GradesEx\obj\Debug\Class.GradesEx.pdb
