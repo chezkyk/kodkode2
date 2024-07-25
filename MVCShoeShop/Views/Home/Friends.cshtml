@@ -1,0 +1,38 @@
+﻿@model List<MVCShoeShop.Models.Friends>
+
+@{
+    ViewData["Title"] = "Friends";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a href="/Home/AddFriend" class="btn btn-primary">Add New Friend</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var friend in Model)
+        {
+            <tr>
+                <td>@friend.Id</td>
+                <td>
+                    <a href="/Home/Details/@friend.Id">
+                        @friend.Name
+                    </a>
+                </td>
+                <td>@friend.Age</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

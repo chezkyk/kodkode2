@@ -1,0 +1,32 @@
+﻿@model MVCShoeShop.Models.Friends
+
+@{
+	ViewData["Title"] = "Friend Details";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div>
+	@if (Model != null)
+	{
+
+		<p>
+			<span>ID:</span> <span>@Model.Id</span>
+		</p>
+		<p>
+			<span>Name:</span> <span>@Model.Name</span>
+		</p>
+		<p>
+			<span>Age:</span> <span>@Model.Age</span>
+		</p>
+	}
+	else
+	{
+		<span>Friend not found</span>
+	}
+</div>
+<a href="/Home/Friends">Back to list</a>
+@* <a href="@Url.Action("Friends", "Home")">Back to list</a> *@
+
+
+
+
