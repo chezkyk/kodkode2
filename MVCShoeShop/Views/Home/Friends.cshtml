@@ -16,6 +16,7 @@
             <th>ID</th>
             <th>Name</th>
             <th>Age</th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -29,10 +30,18 @@
                     </a>
                 </td>
                 <td>@friend.Age</td>
+                <td>
+                    <a href="@Url.Action("Delete", "Home", new { id = friend.Id })" onclick="return confirm('Are you sure you want to delete this friend?');">Delete</a> |
+                    <a href="@Url.Action("UpdateFriend", "Home", new { id = friend.Id })" onclick="return confirm('Are you sure you want to Update this friend?');">Update</a> 
+                    @* <a href="/Home/UpdateFriend/@friend.Id">update friend</a> *@
+                </td>
             </tr>
+            
         }
     </tbody>
 </table>
+
+
 
 
 
