@@ -8,7 +8,7 @@ namespace MVCShoeShop.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        // יצירת מערך של חברים
         private static List<Friends> friendsList = new List<Friends>
         {
             new Friends(1, "Moshe", 27),
@@ -45,6 +45,7 @@ namespace MVCShoeShop.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+        // מראה את פרטי החבר לפי מס' זהות
         public IActionResult Details(int id)
         {
             Friends friend = null;
@@ -58,6 +59,7 @@ namespace MVCShoeShop.Controllers
             }
             return View(friend);
         }
+        //הוספת חבר
         public IActionResult AddFriend()
         {
             return View();
@@ -65,12 +67,49 @@ namespace MVCShoeShop.Controllers
         [HttpPost]
         public IActionResult AddFriend(Friends newFriend)
         {
-            if (ModelState.IsValid) 
+            if (ModelState.IsValid)
             {
                 friendsList.Add(newFriend);
-                return RedirectToAction("Friends"); 
+                return RedirectToAction("Friends");
             }
             return View(newFriend);
+        }
+        //מחיקת חבר
+        public IActionResult Delete(int id)
+        {
+            var friendToDelete = friendsList.FirstOrDefault(f => f.Id == id);
+            if (friendToDelete != null)
+            {
+                friendsList.Remove(friendToDelete);
+            }
+            return RedirectToAction("Friends");
+        }
+        // עדכון פרטי חבר
+        public IActionResult UpdateFriend(int id)
+        {
+            Friends friend = null;
+            foreach (var f in friendsList)
+            {
+                if (f.Id == id)
+                {
+                    friend = f;
+                    break;
+                }
+            }
+            return View(friend);
+        }
+        [HttpPost]
+        public IActionResult UpdateFriend(Friends friend)
+        {
+            Friends newFriend = friendsList.Find(f => f.Id == friend.Id);
+            if (newFriend != null)
+            {
+                newFriend.Id = friend.Id;
+                newFriend.Name = friend.Name;
+                newFriend.Age = friend.Age;
+            }
+
+            return RedirectToAction("Friends");
         }
 
 
