@@ -1,0 +1,76 @@
+﻿@model OtzarOfBooks.ViewModels.GenerAndBooks
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<h4>Book</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="book.Name" class="control-label"></label>
+                <input asp-for="book.Name" class="form-control" />
+                <span asp-validation-for="book.Name" class="text-danger"></span>
+            </div>
+            <div>
+                <select asp-for="LibraryId" class="form-control" asp-items="@(new SelectList(Model.libraries, "Id","Genre"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="book.Hight" class="control-label"></label>
+                <input asp-for="book.Hight" class="form-control" />
+                <span asp-validation-for="book.Hight" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="book.Width" class="control-label"></label>
+                <input asp-for="book.Width" class="form-control" />
+                <span asp-validation-for="book.Width" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    
+    <script>
+        $(document).ready(function () {
+            var alertMessage = '@TempData["AlertMessage"]';
+            if (alertMessage) {
+                showAlert(alertMessage);
+            }
+        });
+
+        function showAlert(message) {
+            var alertDiv = $('<div class="alert alert-warning alert-dismissible fade show" role="alert">' +
+                message +
+                '<button type="button" class="close" data-dismiss="alert" aria-label="Close">' +
+                '<span aria-hidden="true">&times;</span>' +
+                '</button>' +
+                '</div>');
+
+            alertDiv.css({
+                'position': 'fixed',
+                'top': '0',
+                'left': '0',
+                'right': '0',
+                'z-index': '9999'
+            });
+
+            $('body').prepend(alertDiv);
+
+            setTimeout(function () {
+                alertDiv.alert('close');
+            }, 5000);
+        }
+    </script>
+}
+

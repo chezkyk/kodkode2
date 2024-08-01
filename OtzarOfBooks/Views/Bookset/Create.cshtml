@@ -1,0 +1,75 @@
+﻿@model OtzarOfBooks.ViewModels.GenerAndSetBook
+@{
+    ViewData["Title"] = "Create Bookset";
+}
+
+<h1>Create Bookset</h1>
+
+<form asp-action="Create">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label>Select Library</label>
+        <select asp-for="LibraryId" class="form-control" asp-items="@(new SelectList(Model.Libraries, "Id", "Genre"))">
+            <option value="">-- Select Library --</option>
+        </select>
+    </div>
+
+    <div id="bookInputs">
+        <div class="book-input">
+            <h4>Book 1</h4>
+            <div class="form-group">
+                <label>Name</label>
+                <input type="text" name="Bookset.Books[0].Name" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label>Height</label>
+                <input type="number" name="Bookset.Books[0].Hight" class="form-control" step="0.1" required />
+            </div>
+            <div class="form-group">
+                <label>Width</label>
+                <input type="number" name="Bookset.Books[0].Width" class="form-control" step="0.1" required />
+            </div>
+        </div>
+    </div>
+
+    <button type="button" id="addBook" class="btn btn-secondary">Add Another Book</button>
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+            var bookCount = 1;
+
+            $('#addBook').click(function () {
+                bookCount++;
+                var newBookInput = `
+                            <div class="book-input">
+                                <h4>Book ${bookCount}</h4>
+                                <div class="form-group">
+                                    <label>Name</label>
+                                    <input type="text" name="Bookset.Books[${bookCount - 1}].Name" class="form-control" required />
+                                </div>
+                                <div class="form-group">
+                                    <label>Height</label>
+                                    <input type="number" name="Bookset.Books[${bookCount - 1}].Hight" class="form-control" step="0.1" required />
+                                </div>
+                                <div class="form-group">
+                                    <label>Width</label>
+                                    <input type="number" name="Bookset.Books[${bookCount - 1}].Width" class="form-control" step="0.1" required />
+                                </div>
+                            </div>
+                        `;
+                $('#bookInputs').append(newBookInput);
+            });
+        });
+    </script>
+}
